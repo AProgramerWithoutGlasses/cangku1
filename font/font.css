@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Caveat-Regular';
+    /* 重命名字体名 */
+    src: url('Caveat-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}   
